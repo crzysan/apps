@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello World from the apps repo</p>'; ?> 
+ <?php echo '<p>Hello World new upodate repo</p>'; ?> 
  </body>
 </html>
